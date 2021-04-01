@@ -9,6 +9,6 @@ Currently, I'm not working anywhere, so if you have any cooperation proposals, o
 **Mail:** contact.goldfinchx@yahoo.com  
 
 **Speaking Languages**  
-Russian  
-English  
-Czech  
+🇷🇺 Russian  
+🇺🇸 English  
+🇨🇿 Czech  
