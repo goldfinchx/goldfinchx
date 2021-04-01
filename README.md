@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @goldfinchx
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### 👋 Hi! 
 
-<!---
-goldfinchx/goldfinchx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm Ivan, a *Java Developer* who creates *Spigot Plugins* for Minecraft Servers.
+
+Currently, I'm not working anywhere, so if you have any cooperation proposals, or you want me to create a plugin for you. Feel free to contact me:
+
+**Discord:** goldfinchx#8617  
+**Telegram:** @goldfinchx  
+**Mail:** contact.goldfinchx@yahoo.com  
