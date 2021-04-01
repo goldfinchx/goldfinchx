@@ -8,7 +8,7 @@ Currently, I'm not working anywhere, so if you have any cooperation proposals, o
 **Telegram:** @goldfinchx  
 **Mail:** contact.goldfinchx@yahoo.com  
 
-**Speaking Languages**
-Russian
-English
-Czech
+**Speaking Languages**  
+Russian  
+English  
+Czech  
