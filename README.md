@@ -9,7 +9,7 @@ Currently, I'm not working anywhere, so if you have any cooperation proposals, o
 **Mail:** contact.goldfinchx@yahoo.com  
 
 **Languages**  
-Russian  
-English  
-Czech  
-Java 🙂
+😎 Russian  
+😎 English  
+😎 Czech  
+🤓 Java
