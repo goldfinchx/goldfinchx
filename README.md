@@ -7,9 +7,3 @@ Currently, I'm not working anywhere, so if you have any cooperation proposals, o
 **Discord:** goldfinchx#8617  
 **Telegram:** @goldfinchx  
 **Mail:** contact.goldfinchx@yahoo.com  
-
-**Languages**  
-😎 Russian  
-😎 English  
-😎 Czech  
-🤓 Java
