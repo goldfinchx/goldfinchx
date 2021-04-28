@@ -7,4 +7,4 @@ Currently, I'm not working anywhere, so if you have any coop proposals, or want 
 **Telegram:** @goldfinchx  
 **Mail:** contact.goldfinchx@yahoo.com 
 
-![N|Solid](https://i.imgur.com/rndrqYF.png)
+![N|Solid](https://i.imgur.com/oE9Q9eh.png)
