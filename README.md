@@ -6,3 +6,5 @@ Currently, I'm not working anywhere, so if you have any coop proposals, or want 
 **Discord:** goldfinchx#8617  
 **Telegram:** @goldfinchx  
 **Mail:** contact.goldfinchx@yahoo.com 
+
+[![N|Solid](https://i.imgur.com/rndrqYF.png)]
