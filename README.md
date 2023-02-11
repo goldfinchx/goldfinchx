@@ -7,4 +7,4 @@ If you have any coop proposals, or want me to create a plugin for you feel free 
 **Telegram:** @goldfinchx  
 **Mail:** contact.goldfinchx@yahoo.com 
 
-![N|Solid](https://i.imgur.com/rfFpwFO.png)
+![N|Solid](https://i.imgur.com/yQ4Toil.png)
