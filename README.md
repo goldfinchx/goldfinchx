@@ -1,5 +1,5 @@
 ### 📚 Knowledge Base
-Java, Bukkit, Paper, Spigot, NMS, Git, GitHub, GitLab, Maven, Gradle, SQLite, PostgreSQL, MariaDB, HikariCP, Hibernate, MongoDB, Redis, Redisson, OOP, SOLID, Design Patterns, WorldEdit, FAWE, ModelEngine, ProtocolLib, ItemsAdder, Oraxen
+Java, Bukkit, Paper, Spigot, NMS, Git, GitHub, GitLab, Maven, Gradle, SQLite, PostgreSQL, MariaDB, HikariCP, Hibernate, MongoDB, Redis, Redisson, JSON, YAML, OOP, SOLID, Design Patterns, WorldEdit, FAWE, ModelEngine, ProtocolLib, ItemsAdder, Oraxen
 
 ### 🔥 Latest Projects
 [configs](https://github.com/goldfinchx/configs) — JSON-based configuration system with custom serializers    
@@ -10,7 +10,7 @@ Java, Bukkit, Paper, Spigot, NMS, Git, GitHub, GitLab, Maven, Gradle, SQLite, Po
 *September 2020 — April 2021*
 
 [**MetaMine**](https://twitter.com/metaminemc)   
-*May 2021 — January 2022*
+*May 2021 — August 2022*
 
 **[DnDCraft](https://www.dndcraft.com)**  
 *July 2021 — September 2022*
