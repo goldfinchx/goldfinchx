@@ -1,4 +1,4 @@
-### 📚 Knowledge Base
+### 📚 Skills
 Java, Bukkit, Paper, Spigot, NMS, Git, GitHub, GitLab, Maven, Gradle, SQLite, PostgreSQL, MariaDB, HikariCP, Hibernate, MongoDB, Redis, Redisson, JSON, YAML, OOP, SOLID, Design Patterns, WorldEdit, FAWE, ModelEngine, ProtocolLib, ItemsAdder, Oraxen
 
 ### 🔥 Latest Projects
