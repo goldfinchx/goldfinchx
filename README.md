@@ -2,7 +2,7 @@
 Java, Bukkit, Paper, Spigot, NMS, Git, GitHub, GitLab, Maven, Gradle, SQLite, PostgreSQL, MariaDB, HikariCP, Hibernate, MongoDB, Redis, Redisson, OOP, SOLID, Design Patterns, WorldEdit, FAWE, ModelEngine, ProtocolLib, ItemsAdder, Oraxen
 
 ### 🔥 Latest Projects
-[configs](https://github.com/goldfinchx/configs) — JSON-based configuration system with custom serializers
+[configs](https://github.com/goldfinchx/configs) — JSON-based configuration system with custom serializers    
 [storages](https://github.com/goldfinchx/storages) — Fast and easy Data Storage API on MongoDB with Redis/Local cache
 
 ### 📜 Experience
