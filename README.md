@@ -1,12 +1,12 @@
-### Knowledge Base
+### 📚 Knowledge Base
 Java, Bukkit, Paper, Spigot, NMS, Git, GitHub, GitLab, Maven, Gradle, SQLite, PostgreSQL, MariaDB, HikariCP, Hibernate, MongoDB, Redis, Redisson, OOP, SOLID, Design Patterns, WorldEdit, FAWE, ModelEngine, ProtocolLib, ItemsAdder, Oraxen
 
-### Latest Projects
+### 🔥 Latest Projects
 [configs](https://github.com/goldfinchx/configs) — JSON-based configuration system with custom serializers
 
 [storages](https://github.com/goldfinchx/storages) — Fast and easy Data Storage API on MongoDB with Redis/Local cache
 
-### Experience
+### 📜 Experience
 [**Cristalix Minecraft Project**](cristalix.gg)   
 *September 2020 — April 2021*
 
@@ -23,6 +23,6 @@ Java, Bukkit, Paper, Spigot, NMS, Git, GitHub, GitLab, Maven, Gradle, SQLite, Po
 *January 2023 — January 2024*
 
 
-### Contacts 
+### ☎️ Contacts 
 Discord: goldfinchx    
 Telegram: @goldfinchx
