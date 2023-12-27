@@ -3,7 +3,6 @@ Java, Bukkit, Paper, Spigot, NMS, Git, GitHub, GitLab, Maven, Gradle, SQLite, Po
 
 ### 🔥 Latest Projects
 [configs](https://github.com/goldfinchx/configs) — JSON-based configuration system with custom serializers
-
 [storages](https://github.com/goldfinchx/storages) — Fast and easy Data Storage API on MongoDB with Redis/Local cache
 
 ### 📜 Experience
