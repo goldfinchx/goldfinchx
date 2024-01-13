@@ -1,5 +1,5 @@
 ### 📚 Skills
-Java, Bukkit, Paper, Spigot, NMS, Git, GitHub, GitLab, Maven, Gradle, SQLite, PostgreSQL, MariaDB, HikariCP, Hibernate, MongoDB, Redis, Redisson, JSON, YAML, OOP, SOLID, Design Patterns, WorldEdit, FAWE, ModelEngine, ProtocolLib, ItemsAdder, Oraxen
+Java, Bukkit, Paper, Spigot, NMS, Git, GitHub, GitLab, Maven, Gradle, SQLite, PostgreSQL, MariaDB, HikariCP, Hibernate, JPA, Persistence API, MongoDB, Redis, Redisson, JSON, YAML, OOP, SOLID, Linux, Design Patterns, WorldEdit, FAWE, ModelEngine, ProtocolLib, ItemsAdder, Oraxen
 
 ### 🔥 Latest Projects
 [configs](https://github.com/goldfinchx/configs) — JSON-based configuration system with custom serializers    
