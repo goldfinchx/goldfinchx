@@ -15,8 +15,7 @@ OOP, SOLID, ECS, MVX Architecture Patterns, GoF Design Patterns, Client-Server A
 
 ## 🔥 Latest Projects
 [dots-survivors](https://github.com/goldfinchx/dots-survivors) — WIP, Vampire survivors made in Unity DOTS                                              
-[configs](https://github.com/goldfinchx/configs) — JSON-based configuration system with custom serializers    
-[storages](https://github.com/goldfinchx/storages) — Fast and easy Data Storage API on MongoDB with Redis/Local cache
+[configs](https://github.com/goldfinchx/configs) — JSON-based configuration system with custom serializers
 
 ## ☎️ Contacts 
 **Discord**: goldfinchx    
