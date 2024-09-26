@@ -1,10 +1,23 @@
-### 📚 Skills
-Java, C#, Unity, MVX Architecture Patterns, Bukkit, Paper, Spigot, NMS, Git, GitHub, GitLab, Maven, Gradle, SQLite, PostgreSQL, MariaDB, HikariCP, Hibernate, JPA, Persistence API, MongoDB, Redis, Redisson, JSON, YAML, OOP, SOLID, Linux, Design Patterns, WorldEdit, FAWE, ModelEngine, ProtocolLib, ItemsAdder, Oraxen, MythicMobs, Pathfinder
 
-### 🔥 Latest Projects
+## 📚 Skills
+**Unity**                                               
+C#, ECS, DOTS, Jobs, Burst, Physics, Multithreading, UGUI, UI Toolkit, Cinemachine, Custom Editor
+
+**Minecraft**                                              
+Java, Bukkit, Spigot, Paper, NMS, ModelEngine, WorldEdit, ProtocolLib, MythicMobs, ItemsAdder, Oraxen
+
+**Common**                                              
+Git, Docker, CI/CD, SQL, MongoDB, Redis, Hibernate, Linux, REST API, Protobuf
+
+**Computer Science**                                              
+OOP, SOLID, ECS, MVX Architecture Patterns, GoF Design Patterns, Client-Server Architectures
+
+
+## 🔥 Latest Projects
+[dots-survivors](https://github.com/goldfinchx/dots-survivors) — WIP, Vampire survivors made in Unity DOTS                                              
 [configs](https://github.com/goldfinchx/configs) — JSON-based configuration system with custom serializers    
 [storages](https://github.com/goldfinchx/storages) — Fast and easy Data Storage API on MongoDB with Redis/Local cache
 
-### ☎️ Contacts 
-Discord: goldfinchx    
-Telegram: @ivan_vrbv
+## ☎️ Contacts 
+**Discord**: goldfinchx    
+**Telegram**: @ivan_vrbv
