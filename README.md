@@ -10,7 +10,7 @@ Java, Bukkit, Spigot, Paper, NMS, ModelEngine, WorldEdit, ProtocolLib, MythicMob
 Git, Docker, CI/CD, SQL, MongoDB, Redis, Hibernate, Linux, REST API, Protobuf
 
 **Computer Science**                                              
-OOP, SOLID, ECS, MVX Architecture Patterns, GoF Design Patterns, Client-Server Architectures
+OOP, SOLID, ECS, Architecture Patterns, GoF Design Patterns, Client-Server Architectures
 
 
 ## 🔥 Latest Projects
