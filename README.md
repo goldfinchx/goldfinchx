@@ -1,7 +1,7 @@
 
 ## 📚 Skills
 **Unity**                                               
-C#, ECS, DOTS, Photon Quantum ECS, UniRx, Jobs, Burst, Physics, Multithreading, UGUI, UI Toolkit, NPC AI, Cinemachine, Rigging, Custom Editor
+C#, ECS, DOTS, Quantum ECS, UniRx, Jobs, Burst, Physics, Multithreading, UGUI, UI Toolkit, NPC AI, Cinemachine, Rigging, Custom Editor
 
 **Minecraft**                                              
 Java, Bukkit, Spigot, Paper, NMS, ModelEngine, WorldEdit, ProtocolLib, MythicMobs, ItemsAdder, Oraxen
@@ -14,7 +14,8 @@ OOP, SOLID, ECS, Architecture Patterns, GoF Design Patterns, Client-Server Archi
 
 
 ## 🔥 Latest Projects
-[dots-survivors](https://github.com/goldfinchx/dots-survivors) — WIP, Vampire survivors made in Unity DOTS                                              
+[dots-survivors](https://github.com/goldfinchx/dots-survivors) — WIP, Vampire survivors made in Unity DOTS     
+[photon-quantum-test](https://github.com/goldfinchx/photon-quantum-test) — A game made on Photon Quantum ECS AND UniRx   
 [configs](https://github.com/goldfinchx/configs) — JSON-based configuration system with custom serializers
 
 ## ☎️ Contacts 
