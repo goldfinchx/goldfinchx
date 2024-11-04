@@ -7,10 +7,10 @@
 - Apache Kafka, RabbitMQ
 - Docker, Docker Compose
 - REST API, JSON, Postman
-- OOP, SOLID
+- OOP, SOLID, ECS
 - CI/CD, GitHub Actions
 - MVX Architecture Patterns, GoF Design Patterns
-- Linux
+- Linux, OAuth
 
 ## 🔥 Latest Projects
 [loove](https://github.com/goldfinchx/loove) — Dating app on Spring Cloud Microservices
