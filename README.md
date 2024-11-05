@@ -14,7 +14,7 @@
 - OAuth
 
 ## 🔥 Latest Projects
-[loove](https://github.com/goldfinchx/loove) — Dating app on Spring Cloud Microservices
+[loove](https://github.com/goldfinchx/loove) — Dating app on Spring Cloud Microservices                                                 
 [configs](https://github.com/goldfinchx/configs) — Configurations system on Java Reflections API
 
 ## ☎️ Contacts 
