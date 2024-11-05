@@ -8,6 +8,7 @@
 - OOP, SOLID, ECS
 - Docker, Compose, Linux
 - REST API, JSON, Postman
+- JUnit5, Mockito
 - CI/CD, GitHub Actions
 - MVX Architecture Patterns, GoF Design Patterns
 - OAuth
