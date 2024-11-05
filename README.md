@@ -5,12 +5,12 @@
 - SQL, PostgreSQL, Hibernate, MongoDB, Redis
 - Gradle, Maven
 - Apache Kafka, RabbitMQ
-- Docker, Docker Compose
-- REST API, JSON, Postman
 - OOP, SOLID, ECS
+- Docker, Compose, Linux
+- REST API, JSON, Postman
 - CI/CD, GitHub Actions
 - MVX Architecture Patterns, GoF Design Patterns
-- Linux, OAuth
+- OAuth
 
 ## 🔥 Latest Projects
 [loove](https://github.com/goldfinchx/loove) — Dating app on Spring Cloud Microservices
