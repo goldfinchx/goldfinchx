@@ -6,7 +6,7 @@
 - Gradle, Maven
 - Apache Kafka, RabbitMQ
 - OOP, SOLID, ECS
-- Docker, Compose, Linux
+- Docker, Linux
 - REST API, JSON, Postman
 - JUnit5, Mockito
 - CI/CD, GitHub Actions
