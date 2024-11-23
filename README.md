@@ -3,11 +3,12 @@
 - Java, C#
 - Spring Framework, Boot, Data, Security, Cloud
 - SQL, PostgreSQL, Hibernate, MongoDB, Redis
+- REST API, JSON, Postman
 - Gradle, Maven
 - Apache Kafka, RabbitMQ
 - OOP, SOLID, ECS
 - Docker, Linux
-- REST API, JSON, Postman
+- Grafana, Prometheus
 - JUnit5, Mockito
 - CI/CD, GitHub Actions
 - MVX Architecture Patterns, GoF Design Patterns
