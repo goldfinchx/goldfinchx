@@ -12,7 +12,7 @@
 - JUnit5, Mockito
 - CI/CD, GitHub Actions
 - MVX Architecture Patterns, GoF Design Patterns
-- OAuth
+- OAuth 2, OpenID, JWT
 
 ## 🔥 Latest Projects
 [loove](https://github.com/goldfinchx/loove) — Dating app on Spring Cloud Microservices                                                 
