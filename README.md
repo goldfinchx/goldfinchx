@@ -3,7 +3,7 @@
 - Java, C#
 - Spring Framework, Boot, Data, Security, Cloud
 - SQL, PostgreSQL, Hibernate, MongoDB, Redis
-- REST API, JSON, Postman
+- REST API, JSON, Postman, OpenAPI
 - Gradle, Maven
 - Apache Kafka, RabbitMQ
 - OOP, SOLID, ECS
@@ -12,7 +12,7 @@
 - JUnit5, Mockito
 - CI/CD, GitHub Actions
 - MVX Architecture Patterns, GoF Design Patterns
-- OAuth 2, OpenID, JWT
+- Keycloak, OAuth2, OpenID, JWT
 
 ## 🔥 Latest Projects
 [loove](https://github.com/goldfinchx/loove) — Dating app on Spring Cloud Microservices                                                 
