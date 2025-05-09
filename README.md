@@ -2,15 +2,15 @@
 ## 📚 Skills
 - Java, C#
 - Spring Framework, Boot, Data, Security, Cloud
-- SQL, PostgreSQL, Hibernate, MongoDB, Redis
-- REST API, JSON, Postman, OpenAPI
+- SQL, PostgreSQL, Hibernate, MongoDB, Redis, Elasticsearch
+- REST API, gRPC, JSON, Postman, OpenAPI
 - Gradle, Maven
 - Apache Kafka, RabbitMQ
 - OOP, SOLID, ECS
 - Docker, Linux
 - Grafana, Prometheus
 - JUnit5, Mockito
-- CI/CD, GitHub Actions
+- GitLab Pipelines, GitHub Actions, Jenkins
 - MVX Architecture Patterns, GoF Design Patterns
 - Keycloak, OAuth2, OpenID, JWT
 
