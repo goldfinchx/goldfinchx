@@ -2,7 +2,7 @@
 ## 📚 Skills
 - Java, C#
 - Spring, Quarkus
-- SQL, PostgreSQL, MySQL, SQLite, Hibernate ORM, Flyway, Liquidbase
+- SQL, PostgreSQL, MySQL, SQLite, Debezium, Hibernate ORM, Flyway, Liquidbase
 - MongoDB, Redis, Elasticsearch, Cassandra, Clickhouse, Neo4j
 - REST API, gRPC, Postman, OpenAPI, JSON, YAML, CSV
 - Gradle, Maven
